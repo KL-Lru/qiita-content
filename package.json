@@ -1,0 +1,7 @@
+{
+  "name": "qiita-content",
+  "packageManager": "yarn@4.10.3",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.2"
+  }
+}

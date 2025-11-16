@@ -4,8 +4,7 @@ name: Publish articles
 on:
   push:
     branches:
-      - main
-      - master
+      - release
   workflow_dispatch:
 
 permissions:
